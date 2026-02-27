@@ -327,20 +327,6 @@ Made with ❤️ by Sabin Adhikari | © 2025
 
 ---
 
-### 📈 Project Status
-
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![Maintenance](https://img.shields.io/badge/Maintained-Yes-green)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-blue)
-
-**Version:** 1.0.0  
-**Last Updated:** January 21, 2025  
-**Status:** ✅ Completed & Deployed
-
-
-
-
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests to improve the project.
@@ -364,3 +350,5 @@ For questions or issues, please contact me at sabinofficial99@gmail.com).
 **Version:** 1.0.0  
 **Last Updated:** January 21, 2025  
 **Status:** ✅ Completed & Deployed
+
+Made with ❤️ by Sabin Adhikari | © 2025
